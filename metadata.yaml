@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31112'
     url: http://www.gutenberg.org/2009/agents/31112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25158#Stubble
 gutenberg_issued: '2008-04-24'
 gutenberg_type: Text
 identifiers:
